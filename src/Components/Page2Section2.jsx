@@ -1,6 +1,6 @@
 import React from 'react'
-import card1 from '../assets/03_card1.png'
-import card2 from '../assets/04_card2.png'
+import card1 from '../assets/03_Card1.png'
+import card2 from '../assets/04_Card2.png'
 const Page2Section2 = () => {
   return (
     <div className="flex gap-16 m-10">

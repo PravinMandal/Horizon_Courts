@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+  
+    /* color: rgba(235, 237, 230, 0.249); */
+  }
+
+  html, body {
+    height: 100%;
+    width: 100%;
+  }
+}
